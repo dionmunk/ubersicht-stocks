@@ -12,6 +12,7 @@ A simple Stocks widget for [Übersicht](http://tracesof.net/uebersicht/) using t
 
 - Download the [repository](https://github.com/dionmunk/ubersicht-stocks/archive/main.zip) and extract it.
 - Place the `stocks.widget` folder in your Übersicht extension folder.
+- Edit the `index.coffee` file to change the list of stocks that are pulled.
 - Refresh Übersicht.
 
 ## License
